@@ -17,7 +17,7 @@ Enter the password using the keypad to control the LED.
 See the uploaded project photos in this repository.
 
 ## Working Demonstration
-[Watch the project video](PASTE_YOUR_VIDEO_LINK_HERE)
+https://drive.google.com/file/d/1kQAoOz2Y12J-HuY2d2MFMYqOSrFxBUGq/view?usp=sharing
 
 ## Project Report
 The project report is available in this repository.
@@ -31,5 +31,3 @@ The project report is available in this repository.
 Created as a mini project for learning Arduino and embedded systems.
 
 
-Arduino Uno password-based LED control project
-https://drive.google.com/file/d/1kQAoOz2Y12J-HuY2d2MFMYqOSrFxBUGq/view?usp=sharing
